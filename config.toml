@@ -1,0 +1,5 @@
+baseURL = "http://rafaelgomides.eti.br/"
+languageCode = "pt-Br"
+title = "Rafael Gomides"
+
+theme = "after-dark"
