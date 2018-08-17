@@ -1,0 +1,14 @@
+# rafaelgomides.github.io
+01010010 01100001 01100110 01100001 01101100 01101100 01101001 01100101 01101110 0001010 01010100 01101000 01100101 00100000 01101000 01100101 01101100 01101100 00100000 01100011 01101111 01101101 01101001 01101110 01100111 00100000 01100110 01110010 01101111 01101101 00100000 01110011 01110000 01100001 01100011 01100101
+
+[Git](https://github.com/RafaelGomides)
+
+[Twitter](https://twitter.com/Rafallien)
+
+[LinkedIn](https://www.linkedin.com/in/rafagomides/)
+
+[StackOverflow](https://pt.stackoverflow.com/users/87909/rafael-gomides) (pt-Br)
+
+[Medium](https://medium.com/@mrrafagomides)
+
+Email: mrrafagomides@gmail.com
